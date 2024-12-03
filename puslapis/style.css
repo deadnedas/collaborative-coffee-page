@@ -1,0 +1,13 @@
+.upcoming-box {
+  padding-bottom: 100px;
+}
+.upcoming-box h2 {
+  font-size: 8rem;
+}
+.upcoming-box p {
+  font-size: 2.5rem;
+}
+.upcoming-img-box img {
+  width: 300px;
+  height: auto;
+}
